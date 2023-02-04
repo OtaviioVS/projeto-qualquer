@@ -1,1 +1,1 @@
-qwe
+function();
